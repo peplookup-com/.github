@@ -7,4 +7,7 @@
 ### Open-source tools
 - **[peptide-calculator](https://github.com/peplookup-com/peptide-calculator)** – reconstitution and price-per-mg math for researchers
 
+### Find us on
+Listed on [SaaSHub](https://www.saashub.com/peplookup)
+
 *Research use only. Not medical advice.*
